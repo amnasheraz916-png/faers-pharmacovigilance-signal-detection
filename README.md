@@ -109,10 +109,6 @@ These findings represent **signal detection observations** and do **not establis
 - GitHub
 
 ---
-## Dataset Summary
-(table of metrics)
-
----
 
 ## Dataset Preview
 
@@ -158,7 +154,9 @@ images/
 ├── signal_landscape.png
 └── dashboard_preview.png
 ```
+## SQL Workflow
 
+📜 [View SQL Analysis](data/data/sql/sql/dashboard/analysis.sql)
 ---
 
 ## Dashboard Preview
@@ -177,12 +175,8 @@ Add your Tableau Public link below:
 
 ## Report
 
-The full project report is available in:
-
-```text
-report/final_report.pdf
+📄 [View Full Project Report](report/final_report.pdf)
 ```
-
 ---
 
 ## Key Disclaimer
