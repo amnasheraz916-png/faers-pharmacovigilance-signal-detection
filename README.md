@@ -132,11 +132,7 @@ report/
 
 ## Dashboard Preview
 
-Upload your dashboard screenshot in the `dashboard` folder and replace the line below:
-
-```markdown
-![Dashboard Preview](data/sql/sql/dashboard/tableau_dashboard.png.png)
-```
+![Dashboard Preview](tableau_dashboard.png)
 
 ---
 
