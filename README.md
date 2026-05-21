@@ -132,7 +132,7 @@ report/
 
 ## Dashboard Preview
 
-Upload your dashboard screenshot in the `images` folder and replace the line below:
+Upload your dashboard screenshot in the `dashboard` folder and replace the line below:
 
 ```markdown
 ![Dashboard Preview](images/tableau_dashboard.png)
