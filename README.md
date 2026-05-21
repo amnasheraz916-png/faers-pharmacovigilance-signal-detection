@@ -135,7 +135,7 @@ report/
 Upload your dashboard screenshot in the `dashboard` folder and replace the line below:
 
 ```markdown
-![Dashboard Preview](dashboard/tableau_dashboard.png)
+![Dashboard Preview](data/sql/sql/dashboard/tableau_dashboard.png.png)
 ```
 
 ---
