@@ -176,9 +176,7 @@ Add your Tableau Public link below:
 ## Report
 
 📄 [View Full Project Report](report/final_report.pdf)
-```
 ---
-
 ## Key Disclaimer
 
 FAERS is a spontaneous reporting database and may contain underreporting, duplicate reporting, and reporting bias. The analysis identifies potential safety signals and reporting patterns rather than causal relationships.
