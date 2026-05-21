@@ -109,6 +109,32 @@ These findings represent **signal detection observations** and do **not establis
 - GitHub
 
 ---
+## Dataset Summary
+(table of metrics)
+
+---
+
+## Dataset Preview
+
+### master_final.csv
+
+| primaryid | drugname_clean | reaction_clean | age | sex |
+|------------|----------------|----------------|-----|-----|
+| 1402638713 | VEDOLIZUMAB | Heart rate decreased | 51 | F |
+| 1425006113 | VEDOLIZUMAB | Chills | 48 | M |
+| 1435354018 | VEDOLIZUMAB | Platelet count increased | 32 | F |
+
+---
+
+### signal_summary_clean.csv
+
+| drug | reaction | a | ROR | PRR |
+|------|----------|---:|----:|----:|
+| VEDOLIZUMAB | DIARRHOEA | 8 | 6.70 | 6.47 |
+| VEDOLIZUMAB | ABDOMINAL PAIN | 5 | 6.58 | 6.44 |
+| VEDOLIZUMAB | BLOOD PRESSURE INCREASED | 5 | 4.51 | 4.43 |
+
+---
 
 ## Project Files
 
@@ -126,6 +152,11 @@ dashboard/
 
 report/
 └── final_report.pdf
+
+images/
+├── top_signals_chart.png
+├── signal_landscape.png
+└── dashboard_preview.png
 ```
 
 ---
